@@ -1,0 +1,3 @@
+D:\Uni and personal work\Unreal Games\EscapeBuilding\Intermediate\Build\Win64\UE4Editor\Development\EscapeBuilding\Definitions.EscapeBuilding.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EscapeBuilding",
+			"Path": "D:\\Uni and personal work\\Unreal Games\\EscapeBuilding\\Source\\EscapeBuilding.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EscapeBuildingEditor",
+			"Path": "D:\\Uni and personal work\\Unreal Games\\EscapeBuilding\\Source\\EscapeBuildingEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

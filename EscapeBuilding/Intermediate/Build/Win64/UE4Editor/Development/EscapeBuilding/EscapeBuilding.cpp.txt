@@ -1,0 +1,2 @@
+D:\Uni and personal work\Unreal Games\EscapeBuilding\Intermediate\Build\Win64\UE4Editor\Development\EscapeBuilding\Definitions.EscapeBuilding.h
+D:\Uni and personal work\Unreal Games\EscapeBuilding\Source\EscapeBuilding\EscapeBuilding.h

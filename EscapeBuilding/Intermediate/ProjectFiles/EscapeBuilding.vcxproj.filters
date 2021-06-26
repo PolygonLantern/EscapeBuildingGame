@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EscapeBuilding.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F58060E0-3DA3-4326-BCBE-470F37DFD041}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EscapeBuilding.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EscapeBuildingEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D9F58003-4276-40E8-BBC8-7643AB0E3AE6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\EscapeBuilding">
+      <UniqueIdentifier>{150584BD-F48A-42E0-8BB7-7CC8CB9958BA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EscapeBuilding\EscapeBuilding.Build.cs">
+      <Filter>Source\EscapeBuilding</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EscapeBuilding\EscapeBuilding.cpp">
+      <Filter>Source\EscapeBuilding</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapeBuilding\EscapeBuilding.h">
+      <Filter>Source\EscapeBuilding</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EscapeBuilding\WorldPosition.cpp">
+      <Filter>Source\EscapeBuilding</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapeBuilding\WorldPosition.h">
+      <Filter>Source\EscapeBuilding</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-EscapeBuilding.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Uni and personal work\Unreal Games\EscapeBuilding\Intermediate\Build\Win64\EscapeBuildingEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Uni and personal work\Unreal Games\EscapeBuilding\Intermediate\Build\Win64\UE4Editor\Development\EscapeBuilding\EscapeBuilding.cpp.obj"
+"D:\Uni and personal work\Unreal Games\EscapeBuilding\Intermediate\Build\Win64\UE4Editor\Development\EscapeBuilding\teEST.cpp.obj"
+"D:\Uni and personal work\Unreal Games\EscapeBuilding\Intermediate\Build\Win64\UE4Editor\Development\EscapeBuilding\Default.rc2.res"
+/OUT:"D:\Uni and personal work\Unreal Games\EscapeBuilding\Intermediate\Build\Win64\UE4Editor\Development\EscapeBuilding\UE4Editor-EscapeBuilding.lib"
+/INCLUDE:IMPLEMENT_MODULE_EscapeBuilding
