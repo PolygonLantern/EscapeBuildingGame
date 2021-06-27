@@ -1,6 +1,7 @@
 // Copyright PolygonLantern 2021
 
 #include "WorldPosition.h"
+#include "GameFramework/Actor.h"
 
 // Sets default values for this component's properties
 UWorldPosition::UWorldPosition()
@@ -18,10 +19,14 @@ void UWorldPosition::BeginPlay()
 {
 	Super::BeginPlay();
 
-	UE_LOG(LogTemp, Warning, TEXT("Helloo"));
-	UE_LOG(LogTemp, Display, TEXT("Helloo"));
-	UE_LOG(LogTemp, Error, TEXT("Helloo"));
-	
+	/*
+	FString ComponentName = GetOwner()->GetName();
+
+	UE_LOG(LogTemp, Warning, TEXT("The name of the component is: %s"), *GetOwner()->GetName());*/
+
+	FString ObjectPosition = GetOwner()->GetActorLocation().ToString();
+
+	UE_LOG(LogTemp, Error, TEXT("%s"), *ObjectPosition);
 }
 
 
